@@ -1,0 +1,1 @@
+FROM vllm/vllm-openai:v0.15.0
